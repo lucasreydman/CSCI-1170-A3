@@ -1,4 +1,3 @@
-Lucas Reydman's Personal Website README
 Index Page (index.html)
 Purpose:
 The index page serves as the landing page for my personal website. It introduces the user to me and provides navigation links to other sections of the site including "About Me," "My Resume," and "Contact Me." Additionally, the page features a personal photo of me.
